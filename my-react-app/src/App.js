@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   let a = 10;
+  let b = 1;
 
   return (
     <div className="App">
