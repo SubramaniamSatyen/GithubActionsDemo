@@ -5,7 +5,8 @@
     },
     "extends": [
         "plugin:react/recommended",
-        "standard"
+        "standard",
+        "plugin:prettier/recommended"
     ],
     "overrides": [
     ],
@@ -19,5 +20,6 @@
     "rules": {
         "react/react-in-jsx-scope": 0,
         "no-undef": 0
-    }
+    },
+    
 }
